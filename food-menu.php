@@ -27,10 +27,10 @@
                             <a class="nav-link text-danger" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-danger" href="explore-food.php">Categories</a>
+                            <a class="nav-link text-danger" href="#">Categories</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-danger" href="food-menu.php">Foods</a>
+                            <a class="nav-link text-danger" href="#">Foods</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-danger" href="#">Contact</a>
@@ -58,27 +58,9 @@
 
     <!-- Search box Ends -->
 
-    <!-- Explore Foods -->
-    <section>
-        <h2 class="text-center">Explore Foods</h2>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col">
-                    <img src="images/burger.jpg" alt="">
-                </div>
-                <div class="col">
-                    <img src="images/pizza.jpg" alt="">
-                </div>
-                <div class="col">
-                    <img src="images/momo.jpg" alt="">
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Explore Foods Ends -->
 
-    <!-- Food Menu start -->
-    <section class="food-menu">
+     <!-- Food Menu start -->
+     <section class="food-menu">
         <div class="container">
             <h2 class="text-center">Food Menu</h2>
 
@@ -95,7 +77,7 @@
                     </p>
                     <br>
 
-                    <a href="order.html" class="btn btn-primary">Order Now</a>
+                    <a href="#" class="btn btn-primary">Order Now</a>
                 </div>
             </div>
 
@@ -197,8 +179,8 @@
     </section>
     <!-- Food menu ends -->
 
-    <!-- Footer Starts -->
-    <section class="social">
+        <!-- Footer Starts -->
+        <section class="social">
         <div class="container text-center">
             <ul>
                 <li>
