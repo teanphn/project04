@@ -1,3 +1,17 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+.img-responsive{
+    width: 100%;
+}
+.img-curve{
+    border-radius: 15px;
+}
+
+
+/* CSS search box */
 .food-search{
     background-image: url(../images/bg.jpg);
     background-size: cover;
@@ -14,7 +28,7 @@
     border-radius: 5px;
 }
 
-
+/* CSS Food menu */
 
 .food-menu{
     background-color: #ececec;
@@ -49,6 +63,7 @@
     color: #747d8c;
 }
 
+/* CSS footer */
 
 .social ul{
     list-style-type: none;
