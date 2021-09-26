@@ -78,18 +78,151 @@
     <!-- Explore Foods Ends -->
 
     <!-- Food Menu -->
-    <div class="row">
-        <div class="col">
-            Column
+   <!-- fOOD MEnu Section Starts Here -->
+   <section class="food-menu">
+        <div class="container">
+            <h2 class="text-center">Food Menu</h2>
+
+            <div class="food-menu-box">
+                <div class="food-menu-img">
+                    <img src="images/menu-pizza.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                </div>
+
+                <div class="food-menu-desc">
+                    <h4>Food Title</h4>
+                    <p class="food-price">$2.3</p>
+                    <p class="food-detail">
+                        Made with Italian Sauce, Chicken, and organice vegetables.
+                    </p>
+                    <br>
+
+                    <a href="order.html" class="btn btn-primary">Order Now</a>
+                </div>
+            </div>
+
+            <div class="food-menu-box">
+                <div class="food-menu-img">
+                    <img src="images/menu-burger.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                </div>
+
+                <div class="food-menu-desc">
+                    <h4>Smoky Burger</h4>
+                    <p class="food-price">$2.3</p>
+                    <p class="food-detail">
+                        Made with Italian Sauce, Chicken, and organice vegetables.
+                    </p>
+                    <br>
+
+                    <a href="#" class="btn btn-primary">Order Now</a>
+                </div>
+            </div>
+
+            <div class="food-menu-box">
+                <div class="food-menu-img">
+                    <img src="images/menu-burger.jpg" alt="Chicke Hawain Burger" class="img-responsive img-curve">
+                </div>
+
+                <div class="food-menu-desc">
+                    <h4>Nice Burger</h4>
+                    <p class="food-price">$2.3</p>
+                    <p class="food-detail">
+                        Made with Italian Sauce, Chicken, and organice vegetables.
+                    </p>
+                    <br>
+
+                    <a href="#" class="btn btn-primary">Order Now</a>
+                </div>
+            </div>
+
+            <div class="food-menu-box">
+                <div class="food-menu-img">
+                    <img src="images/menu-pizza.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                </div>
+
+                <div class="food-menu-desc">
+                    <h4>Food Title</h4>
+                    <p class="food-price">$2.3</p>
+                    <p class="food-detail">
+                        Made with Italian Sauce, Chicken, and organice vegetables.
+                    </p>
+                    <br>
+
+                    <a href="#" class="btn btn-primary">Order Now</a>
+                </div>
+            </div>
+
+            <div class="food-menu-box">
+                <div class="food-menu-img">
+                    <img src="images/menu-pizza.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                </div>
+
+                <div class="food-menu-desc">
+                    <h4>Food Title</h4>
+                    <p class="food-price">$2.3</p>
+                    <p class="food-detail">
+                        Made with Italian Sauce, Chicken, and organice vegetables.
+                    </p>
+                    <br>
+
+                    <a href="#" class="btn btn-primary">Order Now</a>
+                </div>
+            </div>
+
+            <div class="food-menu-box">
+                <div class="food-menu-img">
+                    <img src="images/menu-momo.jpg" alt="Chicke Hawain Momo" class="img-responsive img-curve">
+                </div>
+
+                <div class="food-menu-desc">
+                    <h4>Chicken Steam Momo</h4>
+                    <p class="food-price">$2.3</p>
+                    <p class="food-detail">
+                        Made with Italian Sauce, Chicken, and organice vegetables.
+                    </p>
+                    <br>
+
+                    <a href="#" class="btn btn-primary">Order Now</a>
+                </div>
+            </div>
+
+
+            <div class="clearfix"></div>
+
+            
+
         </div>
-        <div class="col">
-            Column
+
+        <p class="text-center">
+            <a href="#">See All Foods</a>
+        </p>
+    </section>
+    <!-- fOOD Menu Section Ends Here -->
+
+    <!-- social Section Starts Here -->
+    <section class="social">
+        <div class="container text-center">
+            <ul>
+                <li>
+                    <a href="#"><img src="https://img.icons8.com/fluent/50/000000/facebook-new.png"/></a>
+                </li>
+                <li>
+                    <a href="#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+                </li>
+                <li>
+                    <a href="#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+                </li>
+            </ul>
         </div>
-        <div class="col">
-            Column
+    </section>
+    <!-- social Section Ends Here -->
+
+    <!-- footer Section Starts Here -->
+    <section class="footer">
+        <div class="container text-center">
+            <p>All rights reserved. Designed By <a href="#">#</a></p>
         </div>
-    </div>
-    </div>
+    </section>
+    <!-- footer Section Ends Here -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
