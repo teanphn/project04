@@ -24,7 +24,7 @@
                 <div class="col-8">
                     <ul class="nav justify-content-end">
                         <li class="nav-item">
-                            <a class="nav-link text-danger" href="#">Home</a>
+                            <a class="nav-link text-danger" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-danger" href="explore-food.php">Categories</a>

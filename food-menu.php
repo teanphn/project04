@@ -27,10 +27,10 @@
                             <a class="nav-link text-danger" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-danger" href="#">Categories</a>
+                            <a class="nav-link text-danger" href="explore-food.php">Categories</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-danger" href="#">Foods</a>
+                            <a class="nav-link text-danger" href="food-menu.php">Foods</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-danger" href="#">Contact</a>
